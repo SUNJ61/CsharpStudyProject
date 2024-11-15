@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\bin\Debug\0620_Csharp.exe.config
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\bin\Debug\0620_Csharp.exe
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\bin\Debug\0620_Csharp.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\obj\Debug\0620_Csharp.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\obj\Debug\0620_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\obj\Debug\0620_Csharp.exe
+C:\Users\YONSAI\Documents\CsharpProject\0620_Csharp\0620_Csharp\obj\Debug\0620_Csharp.pdb

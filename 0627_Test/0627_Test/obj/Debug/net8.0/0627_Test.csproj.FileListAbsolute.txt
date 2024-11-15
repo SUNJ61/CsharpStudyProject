@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\bin\Debug\net8.0\0627_Test.exe
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\bin\Debug\net8.0\0627_Test.deps.json
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\bin\Debug\net8.0\0627_Test.runtimeconfig.json
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\bin\Debug\net8.0\0627_Test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\bin\Debug\net8.0\0627_Test.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\refint\0627_Test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\0627_Test.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\CsharpProject\0627_Test\0627_Test\obj\Debug\net8.0\ref\0627_Test.dll

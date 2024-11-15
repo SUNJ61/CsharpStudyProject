@@ -1,0 +1,16 @@
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\bin\Debug\net8.0-windows\0709_WinForms.exe
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\bin\Debug\net8.0-windows\0709_WinForms.deps.json
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\bin\Debug\net8.0-windows\0709_WinForms.runtimeconfig.json
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\bin\Debug\net8.0-windows\0709_WinForms.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\bin\Debug\net8.0-windows\0709_WinForms.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\_0709_WinForms.Form1.resources
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.csproj.GenerateResource.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\refint\0709_WinForms.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\0709_WinForms.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_Csharp\0709_WinForms\obj\Debug\net8.0-windows\ref\0709_WinForms.dll

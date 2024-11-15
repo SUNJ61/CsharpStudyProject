@@ -1,0 +1,7 @@
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\bin\Debug\Progcompany.exe.config
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\bin\Debug\Progcompany.exe
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\bin\Debug\Progcompany.pdb
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\obj\Debug\Progcompany.csproj.AssemblyReference.cache
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\obj\Debug\Progcompany.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\obj\Debug\Progcompany.exe
+C:\Users\YONSAI\source\repos\TestProject\Progcompany\obj\Debug\Progcompany.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YONSAI\\source\\repos\\0625_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3E1ECC-DD4F-43D4-90D8-D457B3A3ED2C}|0625_Csharp\\0625_Csharp.csproj|c:\\users\\yonsai\\source\\repos\\0625_csharp\\0625_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3E1ECC-DD4F-43D4-90D8-D457B3A3ED2C}|0625_Csharp\\0625_Csharp.csproj|solutionrelative:0625_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\0625_Csharp\\0625_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "0625_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\0625_Csharp\\0625_Csharp\\Program.cs",
+              "RelativeToolTip": "0625_Csharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:51:06.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

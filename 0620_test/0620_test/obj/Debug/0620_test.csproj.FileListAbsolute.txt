@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\bin\Debug\0620_test.exe.config
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\bin\Debug\0620_test.exe
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\bin\Debug\0620_test.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\obj\Debug\0620_test.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\obj\Debug\0620_test.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\obj\Debug\0620_test.exe
+C:\Users\YONSAI\Documents\CsharpProject\0620_test\0620_test\obj\Debug\0620_test.pdb

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|c:\\users\\yonsai\\documents\\csharpproject\\06_17_csharp\\06_17_csharp\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|solutionrelative:06_17_csharp\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_csharp\\mainapp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|solutionrelative:06_17_csharp\\mainapp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_csharp\\mainapp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85F5C4-03D8-4816-8959-CC48B7856305}|06_17_Csharp\\06_17_Csharp.csproj|solutionrelative:06_17_csharp\\mainapp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainApp3.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp3.cs",
+              "RelativeDocumentMoniker": "06_17_Csharp\\MainApp3.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp3.cs",
+              "RelativeToolTip": "06_17_Csharp\\MainApp3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:57:59.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp2.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp2.cs",
+              "RelativeDocumentMoniker": "06_17_Csharp\\MainApp2.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp2.cs",
+              "RelativeToolTip": "06_17_Csharp\\MainApp2.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:10:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp.cs",
+              "RelativeDocumentMoniker": "06_17_Csharp\\MainApp.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\06_17_Csharp\\06_17_Csharp\\MainApp.cs",
+              "RelativeToolTip": "06_17_Csharp\\MainApp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:24:02.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

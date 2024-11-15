@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\YONSAI\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\YONSAI\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\YONSAI\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\YONSAI\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\YONSAI\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\YONSAI\Documents\CsharpProject\TestProject\TestProject\obj\Debug\TestProject.pdb

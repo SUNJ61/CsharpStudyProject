@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\0722_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9655B26E-04A3-4125-961A-4ADF5B324D5E}|0722_Csharp\\0722_Csharp.csproj|c:\\users\\yonsai\\documents\\csharpproject\\0722_csharp\\0722_csharp\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9655B26E-04A3-4125-961A-4ADF5B324D5E}|0722_Csharp\\0722_Csharp.csproj|solutionrelative:0722_csharp\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\0722_Csharp\\0722_Csharp\\MainApp.cs",
+              "RelativeDocumentMoniker": "0722_Csharp\\MainApp.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\Documents\\CsharpProject\\0722_Csharp\\0722_Csharp\\MainApp.cs",
+              "RelativeToolTip": "0722_Csharp\\MainApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T04:55:40.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

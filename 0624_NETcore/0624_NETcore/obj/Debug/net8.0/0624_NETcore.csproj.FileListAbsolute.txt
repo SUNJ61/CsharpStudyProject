@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\bin\Debug\net8.0\0624_NETcore.exe
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\bin\Debug\net8.0\0624_NETcore.deps.json
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\bin\Debug\net8.0\0624_NETcore.runtimeconfig.json
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\bin\Debug\net8.0\0624_NETcore.dll
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\bin\Debug\net8.0\0624_NETcore.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.dll
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\refint\0624_NETcore.dll
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\0624_NETcore.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\CsharpProject\0624_NETcore\0624_NETcore\obj\Debug\net8.0\ref\0624_NETcore.dll

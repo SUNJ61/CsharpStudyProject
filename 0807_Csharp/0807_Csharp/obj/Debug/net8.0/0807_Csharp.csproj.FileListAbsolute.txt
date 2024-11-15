@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\bin\Debug\net8.0\0807_Csharp.exe
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\bin\Debug\net8.0\0807_Csharp.deps.json
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\bin\Debug\net8.0\0807_Csharp.runtimeconfig.json
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\bin\Debug\net8.0\0807_Csharp.dll
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\bin\Debug\net8.0\0807_Csharp.pdb
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.dll
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\refint\0807_Csharp.dll
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.pdb
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\0807_Csharp.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\0807_Csharp\0807_Csharp\obj\Debug\net8.0\ref\0807_Csharp.dll

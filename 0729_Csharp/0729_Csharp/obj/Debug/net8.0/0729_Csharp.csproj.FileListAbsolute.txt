@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\bin\Debug\net8.0\0729_Csharp.exe
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\bin\Debug\net8.0\0729_Csharp.deps.json
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\bin\Debug\net8.0\0729_Csharp.runtimeconfig.json
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\bin\Debug\net8.0\0729_Csharp.dll
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\bin\Debug\net8.0\0729_Csharp.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.dll
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\refint\0729_Csharp.dll
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\0729_Csharp.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\CsharpProject\0729_Csharp\0729_Csharp\obj\Debug\net8.0\ref\0729_Csharp.dll

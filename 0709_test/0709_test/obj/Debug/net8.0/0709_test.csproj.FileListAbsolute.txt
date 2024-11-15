@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\bin\Debug\net8.0\0709_test.exe
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\bin\Debug\net8.0\0709_test.deps.json
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\bin\Debug\net8.0\0709_test.runtimeconfig.json
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\bin\Debug\net8.0\0709_test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\bin\Debug\net8.0\0709_test.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\refint\0709_test.dll
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.pdb
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\0709_test.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\CsharpProject\0709_test\0709_test\obj\Debug\net8.0\ref\0709_test.dll

@@ -1,0 +1,10 @@
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\bin\Debug\WindowsFormsApp_0710.exe.config
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\bin\Debug\WindowsFormsApp_0710.exe
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\bin\Debug\WindowsFormsApp_0710.pdb
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.Form1.resources
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.Properties.Resources.resources
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.csproj.GenerateResource.cache
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.exe
+C:\Users\YONSAI\Documents\CsharpProject\WindowsFormsApp_0710\WindowsFormsApp_0710\obj\Debug\WindowsFormsApp_0710.pdb

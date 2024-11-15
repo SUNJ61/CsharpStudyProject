@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\bin\Debug\HellowWorldPro.exe.config
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\bin\Debug\HellowWorldPro.exe
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\bin\Debug\HellowWorldPro.pdb
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\obj\Debug\HellowWorldPro.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\obj\Debug\HellowWorldPro.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\obj\Debug\HellowWorldPro.exe
+C:\Users\YONSAI\Documents\CsharpProject\Csharp_06_13\HellowWorldPro\obj\Debug\HellowWorldPro.pdb
